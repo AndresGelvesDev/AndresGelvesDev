@@ -1,9 +1,9 @@
 # Cirilo Cardenas Gelves
 
-[
-[
-[
-[
+[![Soporte TI](https://img.shields.io/badge/Soporte-TI-0A66C2?style=for-the-badge)](#perfil-profesional)
+[![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-111827?style=for-the-badge)](#perfil-profesional)
+[![Auditoría](https://img.shields.io/badge/Auditoría-Técnica-0F766E?style=for-the-badge)](#perfil-profesional)
+[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](#proyectos-destacados)
 
 Tecnólogo en redes y programación, estudiante de Ingeniería de Sistemas y profesional orientado a soporte TI, ciberseguridad y auditoría técnica. El perfil está enfocado en mostrar trabajo real, prácticas técnicas, documentación y crecimiento profesional en seguridad, infraestructura y continuidad operativa.
 
@@ -20,15 +20,15 @@ Profesional en formación con experiencia en soporte de primer nivel, análisis 
 
 ## Stack técnico
 
-
-
-
-
-
-
-
-
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-334155?style=flat-square)
+![Auditoría](https://img.shields.io/badge/Auditoría-0F766E?style=flat-square)
+![Logs](https://img.shields.io/badge/Análisis%20de%20Logs-1D4ED8?style=flat-square)
 
 ## Actualmente enfocado en
 
@@ -38,38 +38,12 @@ Profesional en formación con experiencia en soporte de primer nivel, análisis 
 
 ## Proyectos destacados
 
-### SdeskLabService
-
-Proyecto técnico en curso asociado al entorno de trabajo del usuario y orientado a servicios y operación técnica.
-
 ### Auditoría simulada en AWS
 
 Laboratorio de auditoría profesional con instancia EC2 Ubuntu, revisión de controles y análisis técnico en un entorno simulado de seguridad. Este proyecto sirve para demostrar criterio técnico, documentación y evaluación de infraestructura con enfoque práctico.
 
-### Investigación de caso de cibercrimen
-
-Desarrollo de un artículo estilo IEEE sobre un caso real de cibercrimen, con atención al impacto operativo, el análisis técnico y la concientización. Este trabajo conecta investigación, redacción técnica y seguridad aplicada.
-
-## Objetivo de este GitHub
-
-GitHub puede utilizarse para reforzar el currículum y mostrar proyectos relevantes, intereses, habilidades y trabajo verificable en un solo lugar.[1][2] También permite personalizar el perfil con un `README.md` en GitHub Flavored Markdown y usar secciones visibles para que reclutadores y colaboradores entiendan mejor el valor profesional del perfil.[3][2]
-
 ## Qué encontrarás aquí
 
 - Repositorios con enfoque técnico y académico.
-- Documentación en Markdown clara y reutilizable.
 - Prácticas relacionadas con auditoría, soporte TI y seguridad.
 - Evidencia de aprendizaje continuo y aplicación práctica.
-
-## Recomendaciones de perfil
-
-GitHub y varias guías de buenas prácticas recomiendan una estructura breve, escaneable y enfocada en proyectos, con badges moderados y secciones claras.[4][5] También se recomienda evitar exceso de badges; una guía sugiere no sobrepasar cinco badges principales para no saturar visualmente el perfil.[4]
-
-## Contacto
-
-- LinkedIn: agrega aquí el enlace profesional correcto.
-- Correo: publica una versión protegida si lo dejas visible para reducir scraping automatizado.
-
-## Nota para repositorios fijados
-
-GitHub recomienda destacar proyectos anclados para que directores de contratación y colaboradores identifiquen rápidamente el trabajo más representativo del perfil.[1][6] Una buena práctica adicional es acompañar cada repositorio destacado con una propuesta de valor breve y el stack principal usado.[7][8]
