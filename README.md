@@ -30,6 +30,15 @@ Profesional en formación con experiencia en soporte de primer nivel, análisis 
 ![Auditoría](https://img.shields.io/badge/Auditoría-0F766E?style=flat-square)
 ![Logs](https://img.shields.io/badge/Análisis%20de%20Logs-1D4ED8?style=flat-square)
 
+## Liderazgo y experiencia en equipos
+
+### Hackathon TalentoTech
+- **Rol:** Líder de equipo.
+- **Responsabilidades:**
+  - Definicion de arquitectura del proyecto y planificacion estrategica.
+  - Coordinacion del equipo durante la competencia.
+  - Entrega de solucion competitiva que ganó el primer lugar.
+    
 ## Actualmente enfocado en
 
 - Fortalecer habilidades en ciberseguridad defensiva y auditoría técnica.
