@@ -5,11 +5,11 @@
 [![Auditoría](https://img.shields.io/badge/Auditoría-Técnica-0F766E?style=for-the-badge)](#perfil-profesional)
 [![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](#proyectos-destacados)
 
-Tecnólogo en redes y programación, estudiante de Ingeniería de Sistemas y profesional orientado a soporte TI, ciberseguridad y auditoría técnica. El perfil está enfocado en mostrar trabajo real, prácticas técnicas, documentación y crecimiento profesional en seguridad, infraestructura y continuidad operativa.
+Tecnólogo en redes y programación, estudiante de Ingeniería de Sistemas y profesional orientado a soporte TI, ciberseguridad y auditoría técnica.
 
 ## Perfil profesional
 
-Profesional en formación con experiencia en soporte de primer nivel, análisis de incidencias, documentación operativa y ejercicios de auditoría simulada. El enfoque técnico combina resolución de problemas, análisis de registros, revisión de eventos sospechosos y fortalecimiento de controles preventivos.
+Profesional en formación con experiencia en soporte de primer nivel, análisis de incidencias, documentación operativa y ejercicios de auditoría simulada.
 
 ## Áreas destacadas
 
